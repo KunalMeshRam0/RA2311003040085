@@ -1,0 +1,8 @@
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #0f1115;
+    color: #e6e6e6;
+    font-family: "Inter", sans-serif;
+  }
